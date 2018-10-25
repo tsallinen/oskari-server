@@ -1,7 +1,7 @@
 package fi.nls.oskari.wfs;
 
-import com.vividsolutions.jts.geom.*;
-import com.vividsolutions.jts.util.GeometricShapeFactory;
+import org.locationtech.jts.geom.*;
+import org.locationtech.jts.util.GeometricShapeFactory;
 import fi.nls.oskari.log.LogFactory;
 import fi.nls.oskari.log.Logger;
 import fi.nls.oskari.map.geometry.ProjectionHelper;

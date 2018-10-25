@@ -16,8 +16,8 @@
  */
 package org.geotools.gml3.bindings;
 
-import com.vividsolutions.jts.geom.GeometryFactory;
-import com.vividsolutions.jts.geom.LineString;
+import org.locationtech.jts.geom.GeometryFactory;
+import org.locationtech.jts.geom.LineString;
 import org.geotools.geometry.jts.CompoundCurvedGeometry;
 import org.geotools.geometry.jts.CurvedGeometry;
 import org.geotools.geometry.jts.CurvedGeometryFactory;

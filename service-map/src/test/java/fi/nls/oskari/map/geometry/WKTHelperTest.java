@@ -1,6 +1,6 @@
 package fi.nls.oskari.map.geometry;
 
-import com.vividsolutions.jts.geom.Geometry;
+import org.locationtech.jts.geom.Geometry;
 import org.junit.Test;
 import org.opengis.referencing.crs.CoordinateReferenceSystem;
 
